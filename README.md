@@ -9,4 +9,4 @@ For this setup to work it is expected to use an AMI that contains the following 
 * kubeadm
 * kubelet
 
-**DISCLAIMER :** the described setup is NOT recommended for production environments. Kubeadm is used solely for learning purposes. For deploying production-grade Kubernetes clusters on AWS you should consider Amazon EKS or kops.
+**DISCLAIMER :** this setup is NOT recommended for production environments. Kubeadm is used only for learning purposes. For deploying production-grade Kubernetes clusters on AWS you should consider Amazon EKS or kops.
