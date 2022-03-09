@@ -2,8 +2,8 @@
 Kubernetes cluster provisioning on AWS using Kubeadm and Terraform
 
 
-### The AMI image
-For this setup to work it is expected to use an AMI that contains the following:
+**The AMI image**
+For this setup to work it is expected to use an AMI that contains the following :
 * Docker
 * kuebctl
 * kubeadm
